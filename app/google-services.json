@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "21847844583",
+    "project_id": "mathime-babc9",
+    "storage_bucket": "mathime-babc9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21847844583:android:8a0a05145f7cb919d2a442",
+        "android_client_info": {
+          "package_name": "com.example.mathime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "21847844583-979k51i48hv4mhha27v0unkool7olgjg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaxTtmHGxn0jGRQdJ2FoGxha9oADU0DMo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "21847844583-979k51i48hv4mhha27v0unkool7olgjg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
