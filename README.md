@@ -7,16 +7,22 @@ Prove that you are a math genius and score higher than anyone! The aim of the ga
 ## Features
 ### 1. Login
 ![Slide2](https://user-images.githubusercontent.com/109414917/179717352-8b792916-7fae-4702-a702-37917874dc1a.PNG)
+Gains access to a game by identifying and authenticating themselves.
 ### 2. Register
 ![Slide3](https://user-images.githubusercontent.com/109414917/179717379-57885878-8a3f-4f16-b1d9-1f4f8ab7d5a7.PNG)
+Provide some sort of credentials to the system in order to prove their identity.
 ### 3. Change Password
 ![Slide4](https://user-images.githubusercontent.com/109414917/179717438-6387ce34-8f0c-45cd-9a96-ba39efce8f57.PNG)
+Avoid a number of dangers including some that are les obvious, such as what happens to the passwords you have saved on your device you no longer own.
 ### 4. Game Modes
 ![Slide5](https://user-images.githubusercontent.com/109414917/179717527-d1b0aa93-76d0-425c-8332-47cc8f293df3.PNG)
+Includes: Easy, Medium, Hard and Extreme Modes. Answer each modes correctly with the time to gain points.
 ### 5. Game Logs
 ![Slide6](https://user-images.githubusercontent.com/109414917/179717590-fb288211-7ad8-4f04-93de-8508db9d9734.PNG)
+Allows you to review your answers in each stages.
 ### 6. Leaderboards
 ![Slide7](https://user-images.githubusercontent.com/109414917/179717641-5d203850-6469-4f7c-a831-dbd0280e24e5.PNG)
+ Collection of high scores achieved in a game session during a specific time segment in a specific portion of a game for a specific set of users.
 ## Developer:
 * **Louie Jay Tutor**
 * Mhel Jhona Doblada
