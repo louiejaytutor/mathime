@@ -29,7 +29,7 @@ Jefferson Costales
 Nagtahan, Sampaloc, Manila, Philippines  
 College of Arts and Sciences  
 ITE Department
-## Course/Section:
+## Course/Year/Section:
 Bachelor of Science in Information Technology - 3A
 ## Date:
 July 19, 2022
